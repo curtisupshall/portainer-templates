@@ -24,9 +24,7 @@
           "name": "PROXIED"
         }
       ],
-      "image_arm32": "favonia/cloudflare-ddns:latest",
-      "image_arm64": "favonia/cloudflare-ddns:latest",
-      "image_amd64": "favonia/cloudflare-ddns:latest",
+      "image": "favonia/cloudflare-ddns:latest",
       "logo": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/cloudflare-ddns.png",
       "name": "cloudflare-ddns",
       "officialDoc": "https://github.com/favonia/cloudflare-ddns/",
